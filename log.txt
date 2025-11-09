@@ -1,4 +1,10 @@
-commit d92c668750d09286819cd94297086528800652a7 (HEAD -> main, origin/main, origin/HEAD)
+commit 85d25a1bb3de5faa0a731ab51728235b542bf2b2 (HEAD -> main, origin/main, origin/HEAD)
+Author: Macqueen <macqueenpan@gmail.com>
+Date:   Sun Nov 9 17:41:45 2025 -0500
+
+    Finish the Task 1.2
+
+commit d92c668750d09286819cd94297086528800652a7
 Author: Macqueen <macqueenpan@gmail.com>
 Date:   Sun Nov 9 17:37:24 2025 -0500
 
@@ -6,10 +12,3 @@ Date:   Sun Nov 9 17:37:24 2025 -0500
 
 commit f969f0988019697961068bc08e8381c3a8868c66
 Author: Macqueen <macqueenpan@gmail.com>
-Date:   Sun Nov 9 17:36:16 2025 -0500
-
-    Finish the Task 1.1
-
-commit 10cce7f7eb755bfc7953a2e0aa14f5ecd51e43a3
-Author: Macqueen <macqueenpan@gmail.com>
-Date:   Sun Nov 9 17:04:48 2025 -0500
