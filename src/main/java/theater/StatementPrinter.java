@@ -65,7 +65,9 @@ public class StatementPrinter {
             // add volume credits
             volumeCredits += Math.max(p.getAudience() - Constants.BASE_VOLUME_CREDIT_THRESHOLD, 0);
             // add extra credit for every five comedy attendees
-            if ("comedy".equals(play.getType())) volumeCredits += p.getAudience() / Constants.COMEDY_EXTRA_VOLUME_FACTOR;
+            if ("comedy".equals(play.getType())) {
+                volumeCredits += p.getAudience() / Constants.COMEDY_EXTRA_VOLUME_FACTOR;
+            }
 
             // print line for this order
             result.append(String.format("  %s: %s (%s seats)%n", play.getName(),
