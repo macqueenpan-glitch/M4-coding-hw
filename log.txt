@@ -1,36 +1,11 @@
-commit 4277f87ad06416c2924b0304e56299a607d662b1 (HEAD -> main, origin/main, origin/HEAD)
-Author: Macqueen <macqueenpan@gmail.com>
-Date:   Sun Nov 9 18:56:44 2025 -0500
-
-    Finish the Task 2.4.
-
-commit bf862c312ecf2af6211f88c775c188f1ee965d98
-Author: Macqueen <macqueenpan@gmail.com>
-Date:   Sun Nov 9 18:44:14 2025 -0500
-
-    Finish the Task 2.3.
-
-commit 86f365f3f294df8eea09fa1394565ce95146c1e4
-Author: Macqueen <macqueenpan@gmail.com>
-Date:   Sun Nov 9 18:28:46 2025 -0500
-
-    Finish the Task 2.2.
-
-commit 418f4ccbf7dc35b0fb82e783d500a7442742b71e
-Author: Macqueen <macqueenpan@gmail.com>
-Date:   Sun Nov 9 18:16:14 2025 -0500
-
-    Finish the Task 2.1.
-
-commit 85d25a1bb3de5faa0a731ab51728235b542bf2b2
-Author: Macqueen <macqueenpan@gmail.com>
-Date:   Sun Nov 9 17:41:45 2025 -0500
-
-    Finish the Task 1.2.
-
-commit d92c668750d09286819cd94297086528800652a7
-Author: Macqueen <macqueenpan@gmail.com>
-Date:   Sun Nov 9 17:37:24 2025 -0500
-
-    Finish the Task 1.1.
-
+5a15d2b (HEAD -> main, origin/main, origin/HEAD) Update the file log.txt.
+5dfc178 Update the file log.txt.
+02f1243 Update the file log.txt.
+4277f87 Finish the Task 2.4
+bf862c3 Finish the Task 2.3
+86f365f Finish the Task 2.2
+418f4cc Finish the Task 2.1
+85d25a1 Finish the Task 1.2
+d92c668 Finish the Task 1.1
+f969f09 Finish the Task 1.1
+10cce7f Initial commit
